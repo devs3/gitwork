@@ -1,0 +1,5 @@
+steps for beginners to git :
+
+1. open cmd
+2. go to the folder where your project is 
+3. type git init (this will create your directory ready for git).
